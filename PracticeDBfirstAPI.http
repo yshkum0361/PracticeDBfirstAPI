@@ -1,0 +1,6 @@
+@PracticeDBfirstAPI_HostAddress = http://localhost:5025
+
+GET {{PracticeDBfirstAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
